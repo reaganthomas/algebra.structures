@@ -1,0 +1,22 @@
+{
+  "name": "algebra.structures",
+  "version": "0.1.0",
+  "description": "A collection of structures conforming to algebraic specification for functional programming.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reaganthomas/algebra.structures.git"
+  },
+  "keywords": [
+    "algebra",
+    "functional",
+    "programming"
+  ],
+  "author": "Reagan Thomas <reagan@reaganthomas.com> (http://reaganthomas.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reaganthomas/algebra.structures/issues"
+  },
+  "homepage": "https://github.com/reaganthomas/algebra.structures"
+}
