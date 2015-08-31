@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/reaganthomas/algebra.structures/issues"
   },
-  "homepage": "https://github.com/reaganthomas/algebra.structures"
+  "homepage": "https://github.com/reaganthomas/algebra.structures",
+  "dependencies": {
+    "algebra.structures.all": "^0.1.0",
+    "algebra.structures.any": "^0.1.1",
+    "algebra.structures.min": "^0.1.0",
+    "algebra.structures.product": "^0.1.0"
+  }
 }
