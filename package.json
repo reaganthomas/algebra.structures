@@ -22,7 +22,13 @@
   "dependencies": {
     "algebra.structures.all": "^0.1.0",
     "algebra.structures.any": "^0.1.1",
+    "algebra.structures.identity": "^0.1.5",
+    "algebra.structures.max": "^0.1.2",
     "algebra.structures.min": "^0.1.0",
-    "algebra.structures.product": "^0.1.0"
+    "algebra.structures.product": "^0.1.0",
+    "algebra.structures.sum": "^0.1.12"
+  },
+  "devDependencies": {
+    "gulp-bump": "^0.3.1"
   }
 }
