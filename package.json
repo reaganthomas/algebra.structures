@@ -1,6 +1,6 @@
 {
   "name": "algebra.structures",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A collection of structures conforming to algebraic specification for functional programming.",
   "main": "index.js",
   "scripts": {},
@@ -29,6 +29,7 @@
     "algebra.structures.sum": "^0.1.12"
   },
   "devDependencies": {
+    "gulp": "^3.9.0",
     "gulp-bump": "^0.3.1"
   }
 }
